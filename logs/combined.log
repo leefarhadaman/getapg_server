@@ -1,0 +1,2 @@
+{"level":"error","message":"Database connection error: Access denied for user 'your_username'@'localhost' (using password: YES)","timestamp":"2025-05-06T14:23:18.061Z"}
+{"level":"error","message":"Server startup error: Access denied for user 'your_username'@'localhost' (using password: YES)","timestamp":"2025-05-06T14:23:18.063Z"}
